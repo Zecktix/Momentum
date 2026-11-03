@@ -243,3 +243,7 @@ replacing the JSON file with a real database.
 ## License
 
 MIT. See [LICENSE](LICENSE).
+
+## Author
+
+Built by Riley Maynard ([@Zecktix](https://github.com/Zecktix)). Questions or feedback: ril3ymaynard@gmail.com.
