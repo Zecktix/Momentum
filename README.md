@@ -1,5 +1,7 @@
 # Momentum
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A simple app for **tasks**, **daily habits** and a **calendar**, with user accounts.
 It runs on your own computer, needs no database, and has **nothing to install** besides Node.js.
 
