@@ -1,0 +1,14 @@
+{
+  "name": "momentum",
+  "version": "1.0.0",
+  "description": "A small tasks, habits and calendar app with accounts.",
+  "main": "server.js",
+  "private": true,
+  "license": "MIT",
+  "engines": { "node": ">=18.11" },
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "test": "node --test"
+  }
+}
